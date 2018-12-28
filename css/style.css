@@ -1,0 +1,23 @@
+.hero {
+    background: url("../images/home-page-hero.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    color: white;
+}
+    .hero h1 {
+        padding-top: 200px;
+    }
+
+.features {
+    margin-top: 100px;
+}
+
+.tomembers {
+    margin: 100px 0;
+}
+
+footer {
+    background: #444;
+    color: white;
+}
